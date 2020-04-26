@@ -1,5 +1,5 @@
 # KB-F_05111840000070
-# KB-F
+![12c83efa4d0baf8aa39a48a40a173da8](https://user-images.githubusercontent.com/62464772/80311374-88d58800-8809-11ea-8219-362d42bef73c.jpg)
 
 # 1. 8 Puzzle BFS
 Breadth First Search merupakan pencarian node tujuan dengan pencarian secara melebar, pertama kita mengunjungi node pertama lalu mengunjungi node yang bertetangga terlebih dahulu. Lalu mengunjungi node yang bertetangga dengan node yang telah dikunjungi.
